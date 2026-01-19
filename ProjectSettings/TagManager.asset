@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - fish
+  - liquid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - cat
+  - Water
+  - UI
+  - wall
+  - pin
+  - liquid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wall
+    uniqueID: 2684641561
+    locked: 0
+  - name: cat
+    uniqueID: 126911133
+    locked: 0
+  m_RenderingLayers:
+  - Default
