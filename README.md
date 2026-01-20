@@ -52,8 +52,8 @@ This project is built as a **portfolio project** to demonstrate gameplay logic, 
 ---
 
 ## 🎥 Demo
-- Gameplay video: *(add link if available)*
-- Screenshots / GIFs: *(optional)*
+- Gameplay video: 
+- Screenshots / GIFs: 
 
 ---
 
